@@ -2,6 +2,7 @@
 Employee Insights Dashboard
 
 Overview
+
 This Employee Insights Dashboard provides a comprehensive view of key workforce metrics, allowing stakeholders to analyze employee data across various dimensions. The dashboard was developed using Power BI with advanced DAX queries to derive insights such as Average Salary, Total Employees, Average Tenure, and Salary Costs. It includes multiple visualizations to make the analysis more intuitive and actionable.
 
 Key Metrics:
